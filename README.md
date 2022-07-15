@@ -1,6 +1,6 @@
 ![Pyber_analysis_results](/Resources/Pyber.png)
 
-# PyBer_Analysis
+# PyBer Analysis
 
 ## Project Overview
 The purpose of the project was to perform an analysis for a schools districts fifteen High shcools performance for the year.
