@@ -22,7 +22,7 @@ nineth grade data Maria requested that we redo our inital analysis of the distri
 ## Summary
 The image below shows a summary of the total number of schools, students, and budget as well as the average
 reading, and math scores. 
-![School_results](/Resources/district_summary.png)
+![Pyber_results](/Resources/Pyber_Ride_Summary.png)
 
 The analysis of the School district shows that:
 - There were 15 schools.
@@ -39,14 +39,7 @@ The analysis of the School district shows that:
 
 ### The images below shows the top five performing schools and the 
 ### bottoms five performing schools.
-![School_results](/Resources/top_five_schools.png)
-![School_results](/Resources/bottom_five_schools.png)
-
-### The images below show the results of schools performance based upon 
-### type, size, and spending budget.
-![School_results](/Resources/score_school_size.png)
-![School_results](/Resources/score_school_type.png)
-![School_results](/Resources/score_school_spending.png)
+![Pyber_results](/Analysis/Pyber_Fare_summary.png)
 
 ## Challenge Summary
 After reconfiguring the data to not include the entire nineth grade class of Thomas high school for acedemic dishonesty and to only reflect the tenth through twelfth grade the schools scores improved and helped their standing. Thosmas high school had shown to be number two in performance for the entire district. After doing a comparitive analyis of the data I could see a trend and correlation to how size, budget pre child and size afftected a schools performance. It would be interesting to do an analysis on small class room learning versus larger class rooms had an outcome on student performance. Just by the analysis it shows that charters schools seem to outperfrom regular district schools rather signigicantly. I find it interesting that the highest perforfiming school outperformed larger schools with less bugdet per child. 
