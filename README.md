@@ -1,4 +1,4 @@
-![Pyber_analysis_results](/ResourcesPyber.png)
+![Pyber_analysis_results](/Resources/Pyber.png)
 
 # PyBer_Analysis
 
