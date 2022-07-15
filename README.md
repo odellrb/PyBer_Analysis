@@ -1,4 +1,4 @@
-![School_analysis_results](/Resources/PyCitySchools.png)
+![Pyber_analysis_results](/ResourcesPyber.png)
 
 # PyBer_Analysis
 
